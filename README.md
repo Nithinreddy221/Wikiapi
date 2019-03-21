@@ -3,7 +3,7 @@ Django application by Django
 
 Download the file
 Extract the file from Zip.
-Thid aplication build on Django 2.0 and python 3.6
+This aplication is build on Django 2.0 and python 3.6
 If you are running any other version create a virtual envnorment.
 Run the project.
 Login to admin with admin, admin123 as crediantials. or creat superuser by your own.
